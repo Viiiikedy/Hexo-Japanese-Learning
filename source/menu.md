@@ -4,7 +4,7 @@
 ##### Grammar
 
 - [Fifties](/Grammar/Fifties.html)
-- [Grammar2](/Grammar/Grammar2.html)
+- [N3-N5](/Grammar/Grammar2.html)
 
 ##### Word and Phraze
 
@@ -18,6 +18,6 @@
 
 ##### Culture and Media
 
-- [Chapter1](/Culture-media/chapter1.html)
-- [Chapter2](/Culture-media/chapter2.html)
-
+- [Books](/Culture-media/Books.html)
+- [Movie](/Culture-media/Movie.html)
+- [Show](/Culture-media/Show.html)
